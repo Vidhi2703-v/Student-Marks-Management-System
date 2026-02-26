@@ -1,5 +1,5 @@
 # Student-Marks-Management-System
-Project Overview
+**Project Overview**
 
 The Student Marks Management System is a Python-based academic record management application developed in Jupyter Notebook.
 
@@ -7,15 +7,15 @@ This project is designed to simulate a basic student performance tracking system
 
 It demonstrates strong foundational programming skills, structured problem-solving ability, and clean logic implementation suitable for entry-level Data Science and Software Development roles.
 
-Technologies & Tools
+**Technologies & Tools**
 
-Language: Python
+**Language:** Python
 
-Environment: Jupyter Notebook
+**Environment:** Jupyter Notebook
 
-Data Structure: Dictionary
+**Data Structure:** Dictionary
 
-Concepts Applied:
+**Concepts Applied:**
 
 Functions
 
@@ -27,7 +27,7 @@ Exception Handling
 
 Basic Data Analysis Logic
 
-Key Features
+**Key Features**
 
 Add student names and marks
 
@@ -41,7 +41,7 @@ Identify the top-performing student
 
 Input validation using exception handling
 
-How to Execute
+**How to Execute**
 
 Install Python (3.x recommended)
 
@@ -57,6 +57,6 @@ Open Student_Marks_Management_System.ipynb
 
 Run all cells
 
-Project Objective
+**Project Objective**
 
 The objective of this project is to strengthen foundational programming knowledge while building a real-world academic management system. The focus is on clean logic implementation, structured coding practices, and interactive execution using Jupyter Notebook.
