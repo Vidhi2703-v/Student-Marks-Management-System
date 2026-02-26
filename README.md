@@ -47,11 +47,11 @@ Install Python (3.x recommended)
 
 Install Jupyter Notebook
 
-pip install notebook
+**pip install notebook**
 
 Launch Jupyter Notebook
 
-jupyter notebook
+**jupyter notebook**
 
 Open Student_Marks_Management_System.ipynb
 
